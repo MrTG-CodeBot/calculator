@@ -1,3 +1,3 @@
-from .calculations import add, subtract
+from .calculation import add, subtract
 
 __all__ = ['add', 'subtract']
